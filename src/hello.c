@@ -4,6 +4,6 @@
 
 void print_hello(){
 
-    printf("hello\n");
+    printf("helloform new feature \n");
 
 }
