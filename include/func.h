@@ -1,7 +1,7 @@
 #ifndef FUNC_1
 #define FUNC_1
 
-printf_hello();
-printf_world();
+void print_hello();
+void print_world();
 
 #endif 
