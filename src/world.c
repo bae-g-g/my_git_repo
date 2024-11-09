@@ -3,6 +3,6 @@
 
 void print_world(){
 
-    printf("world\n");
+    printf("The world is beautiful\n");
 
 }
